@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35fce6d06cad83f4dadb42ae6f28f717, type: 3}
+  m_Name: Head2
+  m_EditorClassIdentifier: 
+  id: be9ff277bc53b1246b1f715a716b41bc
+  ItemName: 'Mythical Head '
+  Icon: {fileID: 21300000, guid: 5c92796c23708564090516e9c86680c0, type: 3}
+  EquipmentClass: 4
+  Strength: 11
+  Agility: 3
+  Intelligence: 5
+  Damage: 11
+  Defence: 8
+  HP: 0
+  Mana: 0
+  DodgeChance: 0
+  CritChance: 0
+  EquipmentType: 1
